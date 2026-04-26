@@ -27,6 +27,7 @@ preferred-citation:
   authors:
     - given-names: Jose Antonio
       family-names: Vilar Sanchez
+      orcid: "https://orcid.org/0009-0008-1057-4223"
   title: "EnergyFingerprint: mRNA Thermodynamic Profiling Combined with Protein Language Models Enables Zero-Shot Cross-Gene Missense Variant Classification"
-  journal: bioRxiv
+  doi: "10.5281/zenodo.19784943"
   year: 2026

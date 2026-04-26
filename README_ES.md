@@ -177,7 +177,6 @@ Si utilizas EnergyFingerprint en tu investigación, por favor cita:
   title={EnergyFingerprint: mRNA Thermodynamic Profiling Combined with Protein
          Language Models Enables Zero-Shot Cross-Gene Missense Variant Classification},
   author={Vilar Sanchez, Jose Antonio},
-  journal={bioRxiv},
   year={2026},
   doi={10.5281/zenodo.19784943}
 }
