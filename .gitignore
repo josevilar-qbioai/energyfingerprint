@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_metadata
+
+# Environment
+.env
+.venv/
+env/
+
+# Data (large files — use Git LFS or Zenodo)
+*.npz
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.gz
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+wandb/
+runs/

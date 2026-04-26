@@ -1,0 +1,55 @@
+##################################################################
+# EnergyFingerprint — Conda Environment
+# ──────────────────────────────────────
+# CNN for missense variant classification using mRNA thermodynamic
+# profiles and ESM-1v protein language model scores.
+#
+# Install:
+#   conda env create -f environment.yml
+#   conda activate energyfp
+#
+# Update:
+#   conda env update -f environment.yml --prune
+##################################################################
+
+name: energyfp
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python
+  - python=3.11
+
+  # Deep Learning
+  - pytorch::pytorch>=2.1
+  - pytorch::cpuonly            # Change to pytorch::pytorch-cuda=12.1 for NVIDIA GPU
+
+  # Scientific computing
+  - numpy>=1.24
+  - scipy>=1.11
+  - pandas>=2.0
+
+  # Machine Learning
+  - scikit-learn>=1.3
+
+  # Visualization
+  - matplotlib>=3.7
+  - seaborn>=0.13
+
+  # Bioinformatics
+  - biopython>=1.81
+
+  # Utilities
+  - tqdm
+  - requests
+
+  # Jupyter (for notebooks)
+  - jupyterlab>=4.0
+  - ipykernel
+
+  # pip-only packages
+  - pip
+  - pip:
+      - fair-esm>=2.0.0         # ESM-1v protein language model (Meta AI)

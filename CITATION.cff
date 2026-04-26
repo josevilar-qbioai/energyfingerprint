@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "EnergyFingerprint: mRNA Thermodynamic Profiling Combined with Protein Language Models Enables Zero-Shot Cross-Gene Missense Variant Classification"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - given-names: Jose Antonio
+    family-names: Vilar Sanchez
+    email: qmetrika@proton.me
+    city: Madrid
+    country: ES
+repository-code: "https://github.com/josevilar-qbioai/energyfingerprint"
+license: MIT
+version: 1.0.0
+date-released: "2026-04-26"
+keywords:
+  - missense variant classification
+  - mRNA thermodynamics
+  - protein language models
+  - zero-shot transfer learning
+  - computational genomics
+  - deep learning
+  - variant of uncertain significance
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Jose Antonio
+      family-names: Vilar Sanchez
+  title: "EnergyFingerprint: mRNA Thermodynamic Profiling Combined with Protein Language Models Enables Zero-Shot Cross-Gene Missense Variant Classification"
+  journal: bioRxiv
+  year: 2026
