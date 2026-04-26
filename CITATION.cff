@@ -6,6 +6,7 @@ authors:
   - given-names: Jose Antonio
     family-names: Vilar Sanchez
     email: qmetrika@proton.me
+    orcid: "https://orcid.org/0009-0008-1057-4223"
     city: Madrid
     country: ES
 repository-code: "https://github.com/josevilar-qbioai/energyfingerprint"
