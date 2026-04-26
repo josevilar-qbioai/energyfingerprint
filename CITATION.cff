@@ -9,6 +9,7 @@ authors:
     city: Madrid
     country: ES
 repository-code: "https://github.com/josevilar-qbioai/energyfingerprint"
+doi: "10.5281/zenodo.19784943"
 license: MIT
 version: 1.0.0
 date-released: "2026-04-26"

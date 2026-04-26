@@ -179,7 +179,7 @@ Si utilizas EnergyFingerprint en tu investigación, por favor cita:
   author={Vilar Sanchez, Jose Antonio},
   journal={bioRxiv},
   year={2026},
-  doi={10.1101/2026.XX.XX.XXXXXX}
+  doi={10.5281/zenodo.19784943}
 }
 ```
 
