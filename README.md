@@ -2,6 +2,9 @@
 
 [🇪🇸 Leer en español](README_ES.md)
 
+[![DOI Paper](https://img.shields.io/badge/Paper-10.5281/zenodo.19831154-blue)](https://doi.org/10.5281/zenodo.19831154)
+[![DOI Code](https://img.shields.io/badge/Code-10.5281/zenodo.19784943-green)](https://doi.org/10.5281/zenodo.19784943)
+
 **mRNA thermodynamic profiling + protein language models for zero-shot missense variant classification.**
 
 EnergyFingerprint is a lightweight 1D-CNN (~228K parameters) that classifies missense variants as pathogenic or benign by combining two orthogonal information axes:
@@ -179,7 +182,8 @@ If you use EnergyFingerprint in your research, please cite:
          Language Models Enables Zero-Shot Cross-Gene Missense Variant Classification},
   author={Vilar Sanchez, Jose Antonio},
   year={2026},
-  doi={10.5281/zenodo.19784943}
+  doi={10.5281/zenodo.19784943},
+  note={Preprint: \url{https://doi.org/10.5281/zenodo.19831154}}
 }
 ```
 
