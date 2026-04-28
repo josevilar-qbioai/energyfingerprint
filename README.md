@@ -3,7 +3,7 @@
 [🇪🇸 Leer en español](README_ES.md)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19831154.svg)](https://doi.org/10.5281/zenodo.19831154)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19784943.svg)](https://doi.org/10.5281/zenodo.19784943)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19784943-blue)](https://doi.org/10.5281/zenodo.19784943)
 
 **mRNA thermodynamic profiling + protein language models for zero-shot missense variant classification.**
 
